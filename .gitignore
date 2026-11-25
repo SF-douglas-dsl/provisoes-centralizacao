@@ -1,0 +1,9 @@
+# arquivos de dados e temporários: nunca versionar
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
